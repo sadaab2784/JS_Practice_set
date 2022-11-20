@@ -1,8 +1,8 @@
 console.log("Hello world");
 // output: Hello world
 
+// PracticeSet-1
 // this program add three number (1,2 and 24)
-
 function addThreeNumbers(a, b, c){
     return a + b + c;
 }
@@ -10,7 +10,7 @@ let sum = addThreeNumbers(1, 2, 24);
 console.log(sum);
 // output: 27
 
-
+// PracticeSet-2
 // variable in javascript
 let a = 24; // a contains 24 
 console.log(a);
