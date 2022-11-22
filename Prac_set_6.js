@@ -52,3 +52,12 @@ switch (expr) {
 }
 
 
+/*..... Ternary Operator....*/
+console.log("You can", "drive");
+// output: You can drive
+console.log("You can", a<18? "not drive" :"drive");
+// output: Hey what's your age> 2
+// you can not drive
+// output: Hey what's your age> 45
+// you can drive
+
